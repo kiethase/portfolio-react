@@ -1,9 +1,13 @@
-import React from 'react'
 import { SectionWrapper } from '../hoc'
+import { BallCanvas } from "./canvas";
+import { technologies } from '../constants';
+
 
 const Tech = () => {
   return (
-    <div>Tech</div>
+    <div className="flex flex-row flex-wrap">
+
+    </div>
   )
 }
 
